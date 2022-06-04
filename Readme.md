@@ -1,1 +1,2 @@
-Usando um projeto do Youtube para aprender a usar o Git e GitHub.
+Olá, seja bem vindo ao meu primeiro repositório ! 
+Irei usar um projeto de um jogo simples que vi no Youtube (https://youtu.be/r9buAwVBDhA) e irei aprimorá-lo adicionando um sistema de pontuações e efeitos sonoros.  
