@@ -1,0 +1,28 @@
+body {
+    background-color: #515753;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section {
+    background-color: #282B29;
+    padding: 50px;
+    border-radius: 25px;
+}
+p {
+    font-size: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #FFF;
+}
+
+button {
+    height: 40px;
+    border-radius: 10px;
+    border-color: #FFF;
+    background-color: #282B29;
+    color: #FFF;
+    cursor: pointer;
+}

@@ -1,0 +1,1 @@
+Criando um sistema de pontuação isolado do game para testes para depois incluir no projeto final. 
